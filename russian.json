@@ -294,5 +294,7 @@
   "spectating": "%green%Вы наблюдаете за боем {name} и {name}.",
   "rdSlowmo": "%yellow%Замедлитель",
   "spectatorWait": "%yellow%До начала турнира осталось {time}.",
-  "chick": "%white%Ко-ко-Колосс"
+  "chick": "%white%Ко-ко-Колосс",
+  "receiverIsBusyR": "%red%Данный игрок ищет рейтинговую дуэль.",
+  "receiverIsBusyT": "%red%Данный игрок уже пригласил кого-то на дуэль."
 }

@@ -287,5 +287,7 @@
   "spectating": "%green%You are spectating the battle of {name} and {name}.",
   "rdSlowmo": "%yellow%Slowmo",
     "spectatorWait": "%yellow%{time} before start.",
-    "chick": "%white%Giant chicken"
+    "chick": "%white%Giant chicken",
+    "receiverIsBusyR": "%red%This player is already looking for a ranked duel.",
+  "receiverIsBusyT": "%red%This player has already invited someone to the duel."
 }
