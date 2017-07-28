@@ -286,4 +286,5 @@
   "spectateChoose": "%yellow%Vyber si%red% bitvu na tabuli %yellow%pro sledování a klikni na ni.",
   "spectating": "%green%Sleduješ boj od {name} a {name}.",
   "rdSlowmo": "%yellow%Slowmo"
+  "spectatorWait": "%yellow{time} do startu."
 }

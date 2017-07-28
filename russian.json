@@ -293,4 +293,5 @@
   "spectateChoose": "%yellow%Выберите %red%сражение для наблюдения%yellow% на таблице.",
   "spectating": "%green%Вы наблюдаете за боем {name} и {name}.",
   "rdSlowmo": "%yellow%Замедлитель"
+  "spectatorWait": "%yellowДо начала турнира осталось {time}."
 }

@@ -286,4 +286,5 @@
   "spectateChoose": "%yellow%Choose a%red% battle on the table%yellow% to spectate and tap it.",
   "spectating": "%green%You are spectating the battle of {name} and {name}.",
   "rdSlowmo": "%yellow%Slowmo"
+    "spectatorWait": "%yellow{time} before start."
 }
