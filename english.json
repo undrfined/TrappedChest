@@ -283,7 +283,7 @@
   "tournamentWaiting": "%yellow%Please, wait for opponent.",
   "spectateNotStarted": "%red%Battle hasn't started yet!",
   "spectateEnded": "%red%Battle is already over!",
-  "spectateChoose": "%yellow%Choose a battle on the table to spectate and tap it.",
+  "spectateChoose": "%yellow%Choose a%red% battle on the table%yellow% to spectate and tap it.",
   "spectating": "%green%You are spectating the battle of {name} and {name}.",
   "rdSlowmo": "%yellow%Slowmo"
 }

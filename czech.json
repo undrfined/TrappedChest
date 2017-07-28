@@ -283,7 +283,7 @@
   "tournamentWaiting": "%yellow%Prosím, počkej na protihráče.",
   "spectateNotStarted": "%red%Boj ještě nezačal!",
   "spectateEnded": "%red%Boj již začal",
-  "spectateChoose": "%yellow%Vyber si bitvu na tabuli pro sledování a klikni na ni.",
+  "spectateChoose": "%yellow%Vyber si%red% bitvu na tabuli %yellow%pro sledování a klikni na ni.",
   "spectating": "%green%Sleduješ boj od {name} a {name}.",
   "rdSlowmo": "%yellow%Slowmo"
 }
