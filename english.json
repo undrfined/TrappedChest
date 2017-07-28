@@ -287,5 +287,5 @@
   "spectating": "%green%You are spectating the battle of {name} and {name}.",
   "rdSlowmo": "%yellow%Slowmo",
     "spectatorWait": "%yellow%{time} before start.",
-    "chick": "Giant chicken"
+    "chick": "%white%Giant chicken"
 }

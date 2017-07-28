@@ -294,5 +294,5 @@
   "spectating": "%green%Вы наблюдаете за боем {name} и {name}.",
   "rdSlowmo": "%yellow%Замедлитель",
   "spectatorWait": "%yellow%До начала турнира осталось {time}.",
-  "chick": "Ко-ко-Колосс"
+  "chick": "%white%Ко-ко-Колосс"
 }

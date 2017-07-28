@@ -287,5 +287,5 @@
   "spectating": "%green%Sleduješ boj od {name} a {name}.",
   "rdSlowmo": "%yellow%Slowmo",
   "spectatorWait": "%yellow%{time} do startu.",
-  "chick": "Giant chicken"
+  "chick": "%white%Giant chicken"
 }
