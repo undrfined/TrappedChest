@@ -289,5 +289,6 @@
   "spectatorWait": "%yellow%{time} do startu.",
   "chick": "%white%Giant chicken",
    "receiverIsBusyR": "%red%This player is already looking for a ranked duel.",
-  "receiverIsBusyT": "%red%This player has already invited someone to the duel."
+  "receiverIsBusyT": "%red%This player has already invited someone to the duel.",
+  "jumpToLeave": "%green%Press jump button to leave."
 }
