@@ -291,9 +291,7 @@
     "receiverIsBusyR": "%red%This player is already looking for a ranked duel.",
   "receiverIsBusyT": "%red%This player has already invited someone to the duel.",
   "jumpToLeave": "%green%Press jump button to leave.",
-  "restoreProgress": "Hello, {username}!\nAs you might have pointed, we are now using Xbox Live authorization. If you want to restore your progress, enter your login and password.\n%yellow%Warning!%white%Your old account will be wiped.",
-  "restore": "Restore",
-  "noRestore": "I have nothing to restore",
+  "restoreProgress": "Hello, {username}!\nAs you might have pointed, we are now using Xbox Live authorization. If you want to restore your progress, enter your old login and password.\n%yellow%Warning!%white%Your old account will be wiped.\nIf you do not have anything to restore, press the cross in the right top corner of this form.",
   "restoreHide": "Do not show again",
   "restoreFieldLogin": "Login",
   "restoreFieldPassword": "Password"
