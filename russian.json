@@ -302,11 +302,11 @@
   "userKickedSuccess": "%green%Пользователь был успешно выкинут с игры.",
   "addedShards": "%gray%Успешно добавлено {count} осколков.",
   "settingsMusicEnabled": "Отключить музыку",
-"settingsMusicLevel": "Громкость музыки",
-"settingsMentionOff": "Отключить подсветку упоминаний",
-"settingsVipParticleOff": "Не показывать платные частицы",
-"settingsHidePlayers": "Не показывать игроков",
-"settingsRDLevel": "Прокачка RD",
-"settingsDefault": "Настройки сервера",
-"settingsAdmin": "Для админов"
+  "settingsMusicLevel": "Громкость музыки",
+  "settingsMentionOff": "Отключить подсветку упоминаний",
+  "settingsVipParticleOff": "Не показывать платные частицы",
+  "settingsHidePlayers": "Не показывать игроков",
+  "settingsRDLevel": "Прокачка RD",
+  "settingsDefault": "Настройки сервера",
+  "settingsAdmin": "Для админов"
 }

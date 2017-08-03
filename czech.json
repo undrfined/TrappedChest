@@ -293,11 +293,11 @@
   "userKickedSuccess": "%green%User has been successfully banned.",
   "addedShards": "%gray%Added {count} shards.",
   "settingsMusicEnabled": "Disable music",
-"settingsMusicLevel": "Volume",
-"settingsMentionOff": "Disable mentions",
-"settingsVipParticleOff": "Disable paid particles",
-"settingsHidePlayers": "Hide players",
-"settingsRDLevel": "RD Levels",
-"settingsDefault": "Server settings",
-"settingsAdmin": "For admins"
+  "settingsMusicLevel": "Volume",
+  "settingsMentionOff": "Disable mentions",
+  "settingsVipParticleOff": "Disable paid particles",
+  "settingsHidePlayers": "Hide players",
+  "settingsRDLevel": "RD Levels",
+  "settingsDefault": "Server settings",
+  "settingsAdmin": "For admins"
 }
