@@ -294,5 +294,8 @@
   "restoreProgress": "Hello, {username}!\nAs you might have pointed, we are now using Xbox Live authorization. If you want to restore your progress, enter your old login and password.\n%yellow%Warning!%white%Your old account will be wiped.\nIf you do not have anything to restore, press the cross in the right top corner of this form.",
   "restoreHide": "Do not show again",
   "restoreFieldLogin": "Login",
-  "restoreFieldPassword": "Password"
+  "restoreFieldPassword": "Password",
+  "userBannedSuccess": "%green%User has been successfully banned.",
+  "userKickedSuccess": "%green%User has been successfully banned.",
+  "addedShards": "%gray%Added {count} shards."
 }
