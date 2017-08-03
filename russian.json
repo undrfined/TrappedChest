@@ -304,5 +304,6 @@
   "restoreFieldPassword": "Пароль",
   "userBannedSuccess": "%green%Пользователь был успешно заблокирован.",
   "userKickedSuccess": "%green%Пользователь был успешно выкинут с игры.",
-  "addedShards": "%gray%Успешно добавлено {count} осколков."
+  "addedShards": "%gray%Успешно добавлено {count} осколков.",
+  "xboxNeeded": "%red%Войдите в Xbox Live и перезайдите."
 }

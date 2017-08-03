@@ -297,5 +297,6 @@
   "restoreFieldPassword": "Password",
   "userBannedSuccess": "%green%User has been successfully banned.",
   "userKickedSuccess": "%green%User has been successfully banned.",
-  "addedShards": "%gray%Added {count} shards."
+  "addedShards": "%gray%Added {count} shards.",
+  "xboxNeeded": "%red%Please, login to Xbox Live and join again."
 }
