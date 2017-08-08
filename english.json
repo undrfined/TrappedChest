@@ -228,7 +228,7 @@
   "authorized": "%darkgreen%You have successfully authorized!",
   "registered": "%darkgreen%You have successfully registered!",
   "password": "%green%Type your pass into the chat.",
-  "userNotExists": "%red%There is no user with nickname {username}. %green%Type /r to register.",
+  "userNotExists": "%red%There is no user with nickname {username}.",
   "nickLength": "%red%Your username is too short or too long.",
   "regexFail": "%red%Username can include only english alphabet, numbers and underscores.",
   "passwordFail": "%red%You entered incorrect password.",
@@ -288,7 +288,6 @@
   "jumpToLeave": "%green%Press jump button to leave.",
   "restoreProgress": "Hello, {username}!\nAs you might have pointed, we are now using %green%Xbox Live %white%authorization. If you want to restore your progress, enter your old login and password.\n%yellow%Warning! %white%Your old account will be wiped.\nIf you do not have anything to restore, press the cross in the right top corner of this form.",
   "restore": "Account restore",
-  "restoreHide": "Do not show again",
   "restoreFieldLogin": "Login",
   "restoreFieldPassword": "Password",
   "userBannedSuccess": "%green%User has been successfully banned.",
@@ -301,5 +300,6 @@
   "settingsHidePlayers": "Hide players",
   "settingsRDLevel": "RD Levels",
   "settingsDefault": "Server settings",
-  "settingsAdmin": "For admins"
+  "settingsAdmin": "For admins",
+  "petBonus": "%green%Here is your pet!"
 }

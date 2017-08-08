@@ -237,7 +237,7 @@
   "authorized": "%darkgreen%Вы успешно авторизовались!",
   "registered": "%darkgreen%Вы успешно зарегистрировались!",
   "password": "%green%Введите ваш пароль в чат.",
-  "userNotExists": "%red%Пользователя с ником {username} не существует! %green%Напишите команду /r для регистрации.",
+  "userNotExists": "%red%Пользователя с ником {username} не существует!",
   "nickLength": "%red%Слишком длинный или короткий ник.",
   "regexFail": "%red%Ник может содержать лишь анлийские буквы, цифры и нижние подчёркивания.",
   "passwordFail": "%red%Неверный пароль!",
@@ -308,5 +308,6 @@
   "settingsHidePlayers": "Не показывать игроков",
   "settingsRDLevel": "Прокачка RD",
   "settingsDefault": "Настройки сервера",
-  "settingsAdmin": "Для админов"
+  "settingsAdmin": "Для админов",
+  "petBonus": "%green%Вот твой новый питомец!"
 }
