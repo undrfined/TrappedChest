@@ -301,5 +301,7 @@
   "settingsRDLevel": "RD Levels",
   "settingsDefault": "Server settings",
   "settingsAdmin": "For admins",
-  "petBonus": "%green%Here is your pet!"
+  "petBonus": "%green%Here is your pet!",
+  "rdFirework": "%red%Radio-controlled firework",
+  "rdTracer": "%gray%Tracer"
 }

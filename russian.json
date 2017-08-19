@@ -309,5 +309,7 @@
   "settingsRDLevel": "Прокачка RD",
   "settingsDefault": "Настройки сервера",
   "settingsAdmin": "Для админов",
-  "petBonus": "%green%Вот твой новый питомец!"
+  "petBonus": "%green%Вот твой новый питомец!",
+  "rdFirework": "%red%Радиоуправляемый фейерверк",
+  "rdTracer": "%gray%Трассирующий снаряд"
 }
