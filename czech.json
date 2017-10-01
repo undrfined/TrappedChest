@@ -341,5 +341,16 @@
   "rdOpens": "Opens on level {level}\n%reset%",
   "rdNewItem": "%darkgreen%New item!",
   "playlist": "%gold%Playlists",
-  "mvpNeeded": "%gray%Pouze MVP a lepší ranky mají povolení k použití. %green%Můžeš si koupit MVP na trappedchest.ru"
+  "mvpNeeded": "%gray%Pouze MVP a lepší ranky mají povolení k použití. %green%Můžeš si koupit MVP na trappedchest.ru",
+    "cmdAddmoney":"Add shards",
+   "cmdBan":"Ban player",
+   "cmdCdskip":"Skip cooldown",
+   "cmdKick":"Kick player",
+   "cmdMusic":"What is playing?",
+   "cmdMute":"Switch music",
+   "cmdNext":"Next song",
+   "cmdPos":"Switch tappos",
+   "cmdStop":"Decline quest",
+   "cmdTournament":"Start tournament",
+   "cmdTp":"Teleport"
 }

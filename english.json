@@ -343,4 +343,15 @@
   "rdNewItem": "%darkgreen%New item!",
   "playlist": "%gold%Playlists",
   "mvpNeeded": "%gray%Only MVP and higher have permission to use this. %green%You can buy them on trappedchest.ru",
+    "cmdAddmoney":"Add shards",
+   "cmdBan":"Ban player",
+   "cmdCdskip":"Skip cooldown",
+   "cmdKick":"Kick player",
+   "cmdMusic":"What is playing?",
+   "cmdMute":"Switch music",
+   "cmdNext":"Next song",
+   "cmdPos":"Switch tappos",
+   "cmdStop":"Decline quest",
+   "cmdTournament":"Start tournament",
+   "cmdTp":"Teleport"
 }
