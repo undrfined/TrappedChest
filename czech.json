@@ -112,7 +112,8 @@
     "zhoď protihráče pomoci harpuny",
     "pohřbi tveho protihráče do slizu",
     "zabí tveho protihráče v posledních 20 sekundách hry",
-    "prevent your fall in the void using feather"
+    "prevent your fall in the void using feather",
+    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets."
   ],
   "qkNametag": "%gold%Zadavač ukolů",
   "miniPet": "%aqua%Mini-{username}",
@@ -341,5 +342,18 @@
   "rdOpens": "Opens on level {level}\n%reset%",
   "rdNewItem": "%darkgreen%New item!",
   "playlist": "%gold%Playlists",
-  "mvpNeeded": "%gray%Pouze MVP a lepší ranky mají povolení k použití. %green%Můžeš si koupit MVP na trappedchest.ru"
+  "mvpNeeded": "%gray%Pouze MVP a lepší ranky mají povolení k použití. %green%Můžeš si koupit MVP na trappedchest.ru",
+  "noQuest": "%red%You have no quests to stop!",
+  "questBlocks": [
+    "noteblocks",
+    "melon blocks",
+    "pumpkins",
+    "sponges",
+    "iron ores",
+    "coal ores",
+    "furnaces",
+    "crafting tables",
+    "bales of hay",
+    "bookshelves"
+  ]
 }

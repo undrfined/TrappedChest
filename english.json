@@ -112,7 +112,8 @@
     "pull your opponent out of void using Harpoon",
     "bury your opponent in slime",
     "kill your opponent in the last 20 seconds of game",
-    "prevent your fall in the void using feather"
+    "prevent your fall in the void using feather",
+    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets."
   ],
   "qkNametag": "%gold%The Questkeeper",
   "miniPet": "%aqua%Mini-{username}",
@@ -343,4 +344,17 @@
   "rdNewItem": "%darkgreen%New item!",
   "playlist": "%gold%Playlists",
   "mvpNeeded": "%gray%Only MVP and higher have permission to use this. %green%You can buy them on trappedchest.ru",
+  "noQuest": "%red%You have no quests to stop!",
+  "questBlocks": [
+    "noteblocks",
+    "melon blocks",
+    "pumpkins",
+    "sponges",
+    "iron ores",
+    "coal ores",
+    "furnaces",
+    "crafting tables",
+    "bales of hay",
+    "bookshelves"
+  ]
 }
