@@ -345,7 +345,6 @@
   "rdNewItem": "%darkgreen%New item!",
   "playlist": "%gold%Playlists",
   "mvpNeeded": "%gray%Only MVP and higher have permission to use this. %green%You can buy them on trappedchest.ru",
-<<<<<<< HEAD
   "noQuest": "%red%You have no quests to stop!",
   "questBlocks": [
     "noteblocks",
@@ -358,18 +357,16 @@
     "crafting tables",
     "bales of hay",
     "bookshelves"
-  ]
-=======
-    "cmdAddmoney":"Add shards",
-   "cmdBan":"Ban player",
-   "cmdCdskip":"Skip cooldown",
-   "cmdKick":"Kick player",
-   "cmdMusic":"What is playing?",
-   "cmdMute":"Switch music",
-   "cmdNext":"Next song",
-   "cmdPos":"Switch tappos",
-   "cmdStop":"Decline quest",
-   "cmdTournament":"Start tournament",
-   "cmdTp":"Teleport"
->>>>>>> 79e45f014d32cf3345a539df80629ca110b568e3
+  ],
+  "cmdAddmoney": "Add shards",
+  "cmdBan": "Ban player",
+  "cmdCdskip": "Skip quest cooldown",
+  "cmdKick": "Kick player",
+  "cmdMusic": "What is playing now?",
+  "cmdMute": "Enable/disable music",
+  "cmdNext": "Next song",
+  "cmdPos": "Switch tap-pos",
+  "cmdStop": "Stop quest",
+  "cmdTournament": "Start tournament",
+  "cmdTp": "Teleport"
 }
