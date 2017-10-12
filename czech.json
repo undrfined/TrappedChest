@@ -113,7 +113,8 @@
     "pohřbi tveho protihráče do slizu",
     "zabí tveho protihráče v posledních 20 sekundách hry",
     "prevent your fall in the void using feather",
-    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets."
+    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets.",
+    "harvest {n} wheat. You can find the hoe in Gadgets."
   ],
   "qkNametag": "%gold%Zadavač ukolů",
   "miniPet": "%aqua%Mini-{username}",
@@ -343,6 +344,7 @@
   "rdNewItem": "%darkgreen%New item!",
   "playlist": "%gold%Playlists",
   "mvpNeeded": "%gray%Pouze MVP a lepší ranky mají povolení k použití. %green%Můžeš si koupit MVP na trappedchest.ru",
+<<<<<<< HEAD
   "noQuest": "%red%You have no quests to stop!",
   "questBlocks": [
     "noteblocks",
@@ -356,4 +358,17 @@
     "bales of hay",
     "bookshelves"
   ]
+=======
+    "cmdAddmoney":"Add shards",
+   "cmdBan":"Ban player",
+   "cmdCdskip":"Skip cooldown",
+   "cmdKick":"Kick player",
+   "cmdMusic":"What is playing?",
+   "cmdMute":"Switch music",
+   "cmdNext":"Next song",
+   "cmdPos":"Switch tappos",
+   "cmdStop":"Decline quest",
+   "cmdTournament":"Start tournament",
+   "cmdTp":"Teleport"
+>>>>>>> 79e45f014d32cf3345a539df80629ca110b568e3
 }

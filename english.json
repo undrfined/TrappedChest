@@ -113,7 +113,8 @@
     "bury your opponent in slime",
     "kill your opponent in the last 20 seconds of game",
     "prevent your fall in the void using feather",
-    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets."
+    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets.",
+    "harvest {n} wheat. You can find the hoe in Gadgets."
   ],
   "qkNametag": "%gold%The Questkeeper",
   "miniPet": "%aqua%Mini-{username}",
@@ -344,6 +345,7 @@
   "rdNewItem": "%darkgreen%New item!",
   "playlist": "%gold%Playlists",
   "mvpNeeded": "%gray%Only MVP and higher have permission to use this. %green%You can buy them on trappedchest.ru",
+<<<<<<< HEAD
   "noQuest": "%red%You have no quests to stop!",
   "questBlocks": [
     "noteblocks",
@@ -357,4 +359,17 @@
     "bales of hay",
     "bookshelves"
   ]
+=======
+    "cmdAddmoney":"Add shards",
+   "cmdBan":"Ban player",
+   "cmdCdskip":"Skip cooldown",
+   "cmdKick":"Kick player",
+   "cmdMusic":"What is playing?",
+   "cmdMute":"Switch music",
+   "cmdNext":"Next song",
+   "cmdPos":"Switch tappos",
+   "cmdStop":"Decline quest",
+   "cmdTournament":"Start tournament",
+   "cmdTp":"Teleport"
+>>>>>>> 79e45f014d32cf3345a539df80629ca110b568e3
 }
