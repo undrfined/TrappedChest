@@ -31,7 +31,7 @@
   "effects": "%darkpurple%Kosmetické menu",
   "rdFight": "%yellow%Boj!",
   "statsTooOften": "%red%Statistiky nemůžou být updatnuté tak často. Zkus to znovu za {time} sekund.",
-  "statsMessage": "%black%---%gold% Statistiky%black%---\n%green%- počet výher: {wins}\n%darkgreen%- počet proher {loses}\n%green%- level: {level}\n%darkgreen%- xp level: {exp}/{neededExp}\n%green%- pozice v leaderboardu: {top}\n%black%--------------------",
+  "statsMessage": "%green%Win count: {wins}\n%darkgreen%Lose count: {loses}\n%green%Level: {level}\n%darkgreen%Experience: {exp}/{neededExp}\n%green%Place in the leaderboard: {top}",
   "eWin": "Vyhrát",
   "eKillInAir": "Zabít ve vzduchu",
   "eKillTwoItems": "Používej pouze 2 itemy",
@@ -113,8 +113,8 @@
     "pohřbi tveho protihráče do slizu",
     "zabí tveho protihráče v posledních 20 sekundách hry",
     "prevent your fall in the void using feather",
-    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets.",
-    "harvest {n} wheat. You can find the hoe in Gadgets."
+    "find and bring to me 15 {block}. You can find the pickaxe in Gadgets.",
+    "harvest 24 wheat. You can find the hoe in Gadgets."
   ],
   "qkNametag": "%gold%Zadavač ukolů",
   "miniPet": "%aqua%Mini-{username}",
@@ -342,7 +342,6 @@
   "rdCategory": "Category: {category}\n%reset%",
   "rdOpens": "Opens on level {level}\n%reset%",
   "rdNewItem": "%darkgreen%New item!",
-  "playlist": "%gold%Playlists",
   "mvpNeeded": "%gray%Pouze MVP a lepší ranky mají povolení k použití. %green%Můžeš si koupit MVP na trappedchest.ru",
   "noQuest": "%red%You have no quests to stop!",
   "questBlocks": [
@@ -367,5 +366,20 @@
   "cmdPos": "Switch tap-pos",
   "cmdStop": "Stop quest",
   "cmdTournament": "Start tournament",
-  "cmdTp": "Teleport"
+  "cmdTp": "Teleport",
+  "cmdGq": "Get quest by id",
+  "rdWaitFriendTag": "%gray%Waiting for a training duel with %green%{username}",
+  "rdWaitDefaultTag": "%gray%Looking for an opponent",
+  "questsLeft": " ({n} left)",
+  "playlist": "%gold%Playlists",
+  "playlist.create": "%green%New playlist",
+  "playlist.create.name": "Playlist name",
+  "playlist.create.public": "Is public?",
+  "playlist.select": "%gold%Select playlist",
+  "playlist.delete": "%red%Delete playlist",
+  "rdStatsReset": "%red%Reset category upgrades",
+  "rdStatsResetDesc": "Are you sure you want to reset the category upgrades? You will be able to spend your points after the next win.",
+  "rdOk": "%green%Yes, reset.",
+  "rdNo": "%red%Cancel",
+  "rdResetSuccess": "%green%Category upgrades was successfully reset!"
 }

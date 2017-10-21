@@ -31,7 +31,7 @@
   "effects": "%darkpurple%Cosmetics",
   "rdFight": "%yellow%Battle!",
   "statsTooOften": "%red%Statistics cannot be updated so frequently. Try again in {time} seconds.",
-  "statsMessage": "%black%---%gold% Statistics%black%---\n%green%- win count: {wins}\n%darkgreen%- lose count: {loses}\n%green%- level: {level}\n%darkgreen%- experience: {exp}/{neededExp}\n%green%- place in the leaderboard: {top}\n%black%--------------------",
+  "statsMessage": "%green%Win count: {wins}\n%darkgreen%Lose count: {loses}\n%green%Level: {level}\n%darkgreen%Experience: {exp}/{neededExp}\n%green%Place in the leaderboard: {top}",
   "eWin": "Win",
   "eKillInAir": "Kill in air",
   "eKillTwoItems": "Use only 2 items",
@@ -113,8 +113,8 @@
     "bury your opponent in slime",
     "kill your opponent in the last 20 seconds of game",
     "prevent your fall in the void using feather",
-    "find and bring to me {n} {block}. You can find the pickaxe in Gadgets.",
-    "harvest {n} wheat. You can find the hoe in Gadgets."
+    "find and bring to me 15 {block}. You can find the pickaxe in Gadgets.",
+    "harvest 24 wheat. You can find the hoe in Gadgets."
   ],
   "qkNametag": "%gold%The Questkeeper",
   "miniPet": "%aqua%Mini-{username}",
@@ -293,7 +293,7 @@
   "restoreFieldLogin": "Login",
   "restoreFieldPassword": "Password",
   "userBannedSuccess": "%green%User has been successfully banned.",
-  "userKickedSuccess": "%green%User has been successfully banned.",
+  "userKickedSuccess": "%green%User has been successfully kicked.",
   "addedShards": "%gray%Added {count} shards.",
   "xboxNeeded": "%red%Please, login to Xbox Live and join again.",
   "settingsMusicEnabled": "Disable music",
@@ -343,7 +343,6 @@
   "rdCategory": "Category: {category}\n%reset%",
   "rdOpens": "Opens on level {level}\n%reset%",
   "rdNewItem": "%darkgreen%New item!",
-  "playlist": "%gold%Playlists",
   "mvpNeeded": "%gray%Only MVP and higher have permission to use this. %green%You can buy them on trappedchest.ru",
   "noQuest": "%red%You have no quests to stop!",
   "questBlocks": [
@@ -368,5 +367,20 @@
   "cmdPos": "Switch tap-pos",
   "cmdStop": "Stop quest",
   "cmdTournament": "Start tournament",
-  "cmdTp": "Teleport"
+  "cmdTp": "Teleport",
+  "cmdGq": "Get quest by id",
+  "rdWaitFriendTag": "%gray%Waiting for a training duel with %green%{username}",
+  "rdWaitDefaultTag": "%gray%Looking for an opponent",
+  "questsLeft": " ({n} left)",
+  "playlist": "%gold%Playlists",
+  "playlist.create": "%green%New playlist",
+  "playlist.create.name": "Playlist name",
+  "playlist.create.public": "Is public?",
+  "playlist.select": "%gold%Select playlist",
+  "playlist.delete": "%red%Delete playlist",
+  "rdStatsReset": "%red%Reset category upgrades",
+  "rdStatsResetDesc": "Are you sure you want to reset the category upgrades? You will be able to spend your points after the next win.",
+  "rdOk": "%green%Yes, reset.",
+  "rdNo": "%red%Cancel",
+  "rdResetSuccess": "%green%Category upgrades was successfully reset!"
 }
