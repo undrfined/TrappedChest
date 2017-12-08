@@ -377,5 +377,6 @@
   "rdStatsResetDesc": "Are you sure you want to reset the category upgrades? You will be able to spend your points after the next win.",
   "rdOk": "%green%Yes, reset.",
   "rdNo": "%red%Cancel",
-  "rdResetSuccess": "%green%Category upgrades was successfully reset!"
+  "rdResetSuccess": "%green%Category upgrades was successfully reset!",
+  "case.no_items": "%red%You already got all the items!"
 }
