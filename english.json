@@ -111,7 +111,8 @@
     "kill your opponent in the last 20 seconds of game",
     "prevent your fall in the void using feather",
     "find and bring to me 15 {block}. You can find the pickaxe in Gadgets.",
-    "harvest 24 wheat. You can find the hoe in Gadgets."
+    "harvest 24 wheat. You can find the hoe in Gadgets.",
+    "complete tutorial"
   ],
   "qkNametag": "%gold%The Questkeeper",
   "miniPet": "%aqua%Mini-{username}",

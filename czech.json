@@ -112,7 +112,8 @@
     "zabí tveho protihráče v posledních 20 sekundách hry",
     "prevent your fall in the void using feather",
     "find and bring to me 15 {block}. You can find the pickaxe in Gadgets.",
-    "harvest 24 wheat. You can find the hoe in Gadgets."
+    "harvest 24 wheat. You can find the hoe in Gadgets.",
+    "complete tutorial"
   ],
   "qkNametag": "%gold%Zadavač ukolů",
   "miniPet": "%aqua%Mini-{username}",
